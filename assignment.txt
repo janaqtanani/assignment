@@ -1,0 +1,11 @@
+1-the difference between tag p and tag article
+<p> creates a new paragraph, 
+<article> is basically only a container,
+alone it doesn't do anything, it just helps to keep the website organized.
+
+
+2-difference between div tag and section tag
+div is a generic container element that does not carry any semantic meaning.
+It is mostly used for grouping related elements together and applying styling to them via CSS.
+section , on the other hand,is a semantic element that represents a specific section of
+a web page with a distinct topic or purpose.
